@@ -2,21 +2,17 @@
 main:
   - title: "About Me"
     url: "/#about-me"
-
-  - title: "News"
-    url: "/#-news"
-
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+ 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#-Educations"
+ 
+  - title: "Publications"
+    url: "/#-Publications"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "PATENTS"
+    url: "/#-PATENTS"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "CONFERENCES"
+    url: "/#-CONFERENCES"
+
+ 
