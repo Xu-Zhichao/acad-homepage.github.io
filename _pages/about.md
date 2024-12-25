@@ -33,8 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 -                      M.A., Soil Science;
 -                      Supervisor: Prof. Dr. DONGSHENG YU.
 - *2010.09 - 2014.07*, Inner Mongolia Agricultural University;
--                      B.A., Soil and Water Conservation and Desertification Control;
--                      Supervisor: Prof. Dr. HEJUN ZUO.
+-----------------------B.A., Soil and Water Conservation and Desertification Control;
+-----------------------Supervisor: Prof. Dr. HEJUN ZUO.
 
 # 📝 Publications 
 - **XU, Z.**, Zhou R, Xu G R*, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. Soil Ecology Letters.(https://doi.org/10.1007/s42832-024-0267-x)
