@@ -19,7 +19,7 @@ redirect_from:
 
 	
 # About Me
-- My research interest includes biochar for soil imporovement and Climate change mitigation, soil-biochar-plant machine learning prediction system, and Sludge resource recovery.
+- My research interest includes Biochar for soil imporovement and Climate change mitigation, Soil-biochar-plant machine learning prediction system, Landuse change based on RS and GIS technique, and Sludge resource recovery.
 
 
 # 📖 Educations
