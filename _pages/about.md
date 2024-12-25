@@ -22,22 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-- **XU, Z.**, Zhou R, Xu G R*, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. Soil Ecology Letters.(https://doi.org/10.1007/s42832-024-0267-x)
-- Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. Nutrient Cycling in Agroecosystems, 116, 165–177.(https://doi.org/10.1007/s10705-019-10033-0)
-- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. Journal of Soils and Sediments, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
-- Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. Plant and Soil, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2019.09 - 2025.01*, University of Chinese Academy of Sciences;
 -                      Ph.D., Environmental Engineering;
@@ -51,6 +35,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2010.09 - 2014.07*, Inner Mongolia Agricultural University;
 -                      B.A., Soil and Water Conservation and Desertification Control;
 -                      Supervisor: Prof. Dr. HEJUN ZUO.
+
+# 📝 Publications 
+- **XU, Z.**, Zhou R, Xu G R*, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. Soil Ecology Letters.(https://doi.org/10.1007/s42832-024-0267-x)
+- Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. Nutrient Cycling in Agroecosystems, 116, 165–177.(https://doi.org/10.1007/s10705-019-10033-0)
+- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. Journal of Soils and Sediments, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
+- Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. Plant and Soil, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z) 
 
 # 💬 PATENTS
 - Xu G., Xu, Z., Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756, Authorized.
