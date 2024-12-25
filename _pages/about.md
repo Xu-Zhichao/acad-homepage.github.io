@@ -42,11 +42,11 @@ redirect_from:
 - Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. Journal of Soils and Sediments, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
 - Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. Plant and Soil, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z) 
 
-# 💬 PATENTS
+# 💬 Patents
 - Xu G., Xu, Z., Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756, Authorized.
 - Xu G., Xu, Z., Method for efficiently recovering phosphorus in sludge. CN202311699063, Authorized.
 
-# 💻 CONFERENCES
+# 💻 Conferences
 - International Symposium on Sustainable Development, Beijing, 2024, Staff.
 - The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral/Poster Presentation.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, Oral Presentation.
