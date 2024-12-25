@@ -27,10 +27,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-- XU, Z., Zhou R, Xu G R*, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. Soil Ecology Letters.(https://doi.org/10.1007/s42832-024-0267-x)
-- Lu, X., Yu, D., Chen, Y. Xu, Z., et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. Nutrient Cycling in Agroecosystems, 116, 165–177.(https://doi.org/10.1007/s10705-019-10033-0)
-- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., Xu, Z., et al., 2019: Quantitative relationships between soil landscape index and classification grain. Journal of Soils and Sediments, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
-- Wang, X., Yu, D., Xu, Z., et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. Plant and Soil, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z)
+- **XU, Z.**, Zhou R, Xu G R*, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. Soil Ecology Letters.(https://doi.org/10.1007/s42832-024-0267-x)
+- Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. Nutrient Cycling in Agroecosystems, 116, 165–177.(https://doi.org/10.1007/s10705-019-10033-0)
+- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. Journal of Soils and Sediments, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
+- Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. Plant and Soil, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
