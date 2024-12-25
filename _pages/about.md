@@ -47,10 +47,18 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.09 - 2025.01*, University of Chinese Academy of Sciences; Ph.D., Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
-- *2018.09 - 2019.07*, Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Research Assistant; Supervisor: Prof. Dr. GENSUO JIA.
-- *2015.07 - 2018.07*, Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; M.A., Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
-- *2010.09 - 2014.07*, Inner Mongolia Agricultural University; B.A., Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
+- *2019.09 - 2025.01*, University of Chinese Academy of Sciences;
+-                      Ph.D., Environmental Engineering;
+-                      Supervisor: Prof. Dr. GUOREN XU. 
+- *2018.09 - 2019.07*, Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia;
+-                      Research Assistant;
+-                      Supervisor: Prof. Dr. GENSUO JIA.
+- *2015.07 - 2018.07*, Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture;
+-                      M.A., Soil Science;
+-                      Supervisor: Prof. Dr. DONGSHENG YU.
+- *2010.09 - 2014.07*, Inner Mongolia Agricultural University;
+-                      B.A., Soil and Water Conservation and Desertification Control;
+-                      Supervisor: Prof. Dr. HEJUN ZUO.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
