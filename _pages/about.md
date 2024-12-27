@@ -34,7 +34,7 @@ redirect_from:
 - Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. *Journal of Soils and Sediments*, 19, 903–916. (https://doi.org/10.1007/s11368-018-2093-1) 
 - Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. *Plant and Soil*, 421, 525–539. (https://doi.org/10.1007/s11104-017-3462-z)
 - **徐志超**，于东升，等. 2018: 长三角典型区占补耕地土壤肥力质量的时段特征. *应用生态学报*，29(2) : 617–625.
-- 陆晓松，于东升，徐志超，等. 2019: 土壤肥力质量与施氮量对小麦氮肥利用效率的综合定量关系研究. *土壤学报*, 56(2): 487–494.
+- 陆晓松，于东升，**徐志超**，等. 2019: 土壤肥力质量与施氮量对小麦氮肥利用效率的综合定量关系研究. *土壤学报*, 56(2): 487–494.
 
 # 💬 Patents
 - Xu G., Xu, Z., Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756, Authorized.
