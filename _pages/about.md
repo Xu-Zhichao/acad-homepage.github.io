@@ -19,7 +19,7 @@ redirect_from:
 
 	
 # About Me
-- My research interest includes: (1) Biochar for soil imporovement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural production and soil sustainbility, and (4) Sludge pyrolysis resource recovery.
+- My research interest includes: (1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, and (4) Sludge pyrolysis resource recovery.
 
 
 # 📖 Educations
