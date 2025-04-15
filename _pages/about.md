@@ -20,15 +20,17 @@ redirect_from:
 	
 # About Me
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
+- 
+# Affiliations
+- **2025.02 - Present**, University of Chinese Academy of Sciences; **PostDoc**, Supervisor: Prof. Dr. GUOREN XU. 
+- **2018.09 - 2019.07**, Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; **Research Assistant**; Supervisor: Prof. Dr. GENSUO JIA.
 
+# Educations
+- **2019.09 - 2025.01**, University of Chinese Academy of Sciences; **Ph.D.**, Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
+- **2015.07 - 2018.07**, Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; **M.A.**, Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
+- **2010.09 - 2014.07**, Inner Mongolia Agricultural University; **B.A.**, Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
 
-# 📖 Educations
-- **2019.09 - 2025.01**, University of Chinese Academy of Sciences; Ph.D., Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
-- **2018.09 - 2019.07**, Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Research Assistant; Supervisor: Prof. Dr. GENSUO JIA.
-- **2015.07 - 2018.07**, Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; M.A., Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
-- **2010.09 - 2014.07**, Inner Mongolia Agricultural University; B.A., Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
-
-# 📝 Publications 
+# Publications 
 - **XU, Z.**, Zhou R, Xu G R, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. *Soil Ecology Letters*. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).  
 - Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. *Nutrient Cycling in Agroecosystems*, 116, 165–177. [https://doi.org/10.1007/s10705-019-10033-0](https://doi.org/10.1007/s10705-019-10033-0). 
 - Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. *Journal of Soils and Sediments*, 19, 903–916. [https://doi.org/10.1007/s11368-018-2093-1](https://doi.org/10.1007/s11368-018-2093-1). 
@@ -39,11 +41,11 @@ redirect_from:
 - 周聪聪，于东升，陆晓松，陈洋，**徐志超**，等. 2019: 县域尺度下样点距离和土壤分类对农田土壤细菌多样性的影响. *土壤学报*, 58(1): 1–14.
 - 王秀虹，于东升，潘月，**徐志超**，等. 2017: 单种复合类型单元土壤全量元素空间变异的幅度效应. *土壤学报*, 54(4): 864–873.
 
-# 💬 Patents
+# Patents
 - Xu G., **Xu, Z.**, Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756, Authorized.
 - Xu G., **Xu, Z.**, Method for efficiently recovering phosphorus in sludge. CN202311699063, Authorized.
 
-# 💻 Conferences
+# Conferences
 - International Symposium on Sustainable Development, Beijing, 2024, Staff.
 - The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral/Poster Presentation.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, Oral Presentation.
@@ -51,7 +53,7 @@ redirect_from:
 - The 3rd Digital Belt and Road Conference, Tengchong, Yunnan, 2018, Participant.
 - Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, 2017, Oral Presentation.
 
-- #  Peer Reviewer
+- # Peer Reviewer
 - **Journal of Environmental Management**.
 - **Applied Soil Ecology**.
 - **Ecological Indicators**.
