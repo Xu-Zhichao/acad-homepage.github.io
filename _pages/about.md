@@ -29,10 +29,10 @@ redirect_from:
 - **2010.09 - 2014.07**, Inner Mongolia Agricultural University; B.A., Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
 
 # 📝 Publications 
-- **XU, Z.**, Zhou R, Xu G R, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. *Soil Ecology Letters*. [](https://doi.org/10.1007/s42832-024-0267-x).  
-- Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. *Nutrient Cycling in Agroecosystems*, 116, 165–177. [](https://doi.org/10.1007/s10705-019-10033-0). 
-- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. *Journal of Soils and Sediments*, 19, 903–916. [](https://doi.org/10.1007/s11368-018-2093-1). 
-- Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. *Plant and Soil*, 421, 525–539. [](https://doi.org/10.1007/s11104-017-3462-z). 
+- **XU, Z.**, Zhou R, Xu G R, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. *Soil Ecology Letters*. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).  
+- Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. *Nutrient Cycling in Agroecosystems*, 116, 165–177. [https://doi.org/10.1007/s10705-019-10033-0](https://doi.org/10.1007/s10705-019-10033-0). 
+- Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. *Journal of Soils and Sediments*, 19, 903–916. [https://doi.org/10.1007/s11368-018-2093-1](https://doi.org/10.1007/s11368-018-2093-1). 
+- Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. *Plant and Soil*, 421, 525–539. [https://doi.org/10.1007/s11104-017-3462-z](https://doi.org/10.1007/s11104-017-3462-z). 
 - **徐志超**，于东升，等. 2018: 长三角典型区占补耕地土壤肥力质量的时段特征. *应用生态学报*，29(2) : 617–625.
 - 陆晓松，于东升，**徐志超**，等. 2019: 土壤肥力质量与施氮量对小麦氮肥利用效率的综合定量关系研究. *土壤学报*, 56(2): 487–494.
 - 潘月，于东升，王秀虹，**徐志超**，等. 2019: 基于CA-Markov模型的土地利用景观格局预测研究.*土壤*，50（02）：391-397.
