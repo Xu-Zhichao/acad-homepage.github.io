@@ -22,13 +22,13 @@ redirect_from:
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
 
 # Affiliations
-- **2025.02 - Present**, **PostDoc**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
-- **2018.09 - 2019.07**, **Research Assistant**; Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Supervisor: Prof. Dr. GENSUO JIA.
+- **2025.02 - Present**:  **PostDoc**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
+- **2018.09 - 2019.07**:  **Research Assistant**; Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Supervisor: Prof. Dr. GENSUO JIA.
 
 # Educations
-- **2019.09 - 2025.01**, **Ph.D.**; University of Chinese Academy of Sciences; Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
-- **2015.07 - 2018.07**, **M.A.**; Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
-- **2010.09 - 2014.07**, **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
+- **2019.09 - 2025.01**:  **Ph.D.**; University of Chinese Academy of Sciences; Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
+- **2015.07 - 2018.07**:  **M.A.**; Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
+- **2010.09 - 2014.07**:  **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
 
 # Publications 
 - **XU, Z.**, Zhou R, Xu G R, 2024: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. *Soil Ecology Letters*. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).  
