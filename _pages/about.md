@@ -59,3 +59,4 @@ redirect_from:
 - **Journal of Environmental Management**.
 - **Applied Soil Ecology**.
 - **Ecological Indicators**.
+- **Field Crops Research**.
