@@ -60,3 +60,4 @@ redirect_from:
 - **Applied Soil Ecology**.
 - **Ecological Indicators**.
 - **Field Crops Research**.
+- **Bioresource Technology**.
