@@ -31,6 +31,7 @@ redirect_from:
 - **2010.09 - 2014.07**:  **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
 
 # Publications 
+-**Zhichao Xu**, Mingwei Li, Run Zhou, Guoren Xu, 2025: Soil Use and Management Machine Learning Predicted Crop Yield and Soil Organic Carbon Variation After Biochar Application. *Soil Ecology Letters*. [https://doi.org/10.1111/sum.70092](https://doi.org/10.1111/sum.70092).  
 - **XU, Z.**, Zhou R, Xu G R, 2025: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. *Soil Ecology Letters*. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).  
 - Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. *Nutrient Cycling in Agroecosystems*, 116, 165–177. [https://doi.org/10.1007/s10705-019-10033-0](https://doi.org/10.1007/s10705-019-10033-0). 
 - Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. *Journal of Soils and Sediments*, 19, 903–916. [https://doi.org/10.1007/s11368-018-2093-1](https://doi.org/10.1007/s11368-018-2093-1). 
