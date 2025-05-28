@@ -45,8 +45,8 @@ redirect_from:
 - 王秀虹，于东升，潘月，**徐志超**，等. 2017: 单种复合类型单元土壤全量元素空间变异的幅度效应. *土壤学报*, 54(4): 864–873.
 
 # Patents
-- Xu G., **Xu, Z.**, Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756, Authorized.
-- Xu G., **Xu, Z.**, Method for efficiently recovering phosphorus in sludge. CN202311699063, Authorized.
+- Xu G., **Xu, Z.**, Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756.
+- Xu G., **Xu, Z.**, Method for efficiently recovering phosphorus in sludge. CN202311699063.
 
 # Conferences
 - International Symposium on Sustainable Development, Beijing, 2024, Staff.
@@ -57,8 +57,5 @@ redirect_from:
 - Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, 2017, Oral Presentation.
 
 # Peer Reviewer
-- **Journal of Environmental Management**.
-- **Applied Soil Ecology**.
-- **Ecological Indicators**.
-- **Field Crops Research**.
-- **Bioresource Technology**.
+- **Journal of Environmental Management**. **Bioresource Technology**.
+- **Applied Soil Ecology**. **Ecological Indicators**. **Field Crops Research**.
