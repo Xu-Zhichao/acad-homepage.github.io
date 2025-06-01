@@ -22,7 +22,7 @@ redirect_from:
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
 
 # Affiliations
-- **2025.02 - Present**:  **PostDoc**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
+- **2025.02 - Present**:  **Special Research Associate(PostDoc)**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
 - **2018.09 - 2019.07**:  **Research Assistant**; Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Supervisor: Prof. Dr. GENSUO JIA.
 
 # Educations
