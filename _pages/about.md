@@ -49,6 +49,8 @@ redirect_from:
 - Xu G., **Xu, Z.**, Method for efficiently recovering phosphorus in sludge. CN202311699063.
 
 # Conferences
+- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025
+- AI in national research ecosystems progress challenges and lessons learned, ISC, 2025
 - International Symposium on Sustainable Development, Beijing, 2024, Staff.
 - The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral/Poster Presentation.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, Oral Presentation.
