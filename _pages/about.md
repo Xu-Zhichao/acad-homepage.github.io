@@ -45,8 +45,8 @@ redirect_from:
 - 王秀虹，于东升，潘月，**徐志超**，等. 2017: 单种复合类型单元土壤全量元素空间变异的幅度效应. *土壤学报*, 54(4): 864–873.
 
 # Patents
-- Xu G., **Xu, Z.**, Soil improvement process for coupling sludge pyrolysis and carbonization with sludge treatment. CN202210947756.
-- Xu G., **Xu, Z.**, Method for efficiently recovering phosphorus in sludge. CN202311699063.
+- 许国仁，**徐志超**. 一种污泥热解碳化耦合污泥处理的土壤改良工艺. ZL202210947756.1, 授权.
+- 许国仁，**徐志超**. 一种污泥中磷高效回收方法. ZL202311699063.6, 授权.
 
 # Conferences
 - 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025.
