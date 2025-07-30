@@ -47,6 +47,7 @@ redirect_from:
 # Patents
 - 许国仁，**徐志超**. 一种污泥热解碳化耦合污泥处理的土壤改良工艺. ZL202210947756.1, 授权.
 - 许国仁，**徐志超**. 一种污泥中磷高效回收方法. ZL202311699063.6, 授权.
+- 许国仁，张宿义，**徐志超**，邓波，王为浩. 一种酿酒废弃物绿色低碳资源化与能源化耦合方法. ZL202411456606.6, 授权.
 
 # Conferences
 - 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025.
