@@ -60,6 +60,6 @@ redirect_from:
 - Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, 2017, Oral Presentation.
 
 # Peer Reviewer
-- *Journal of Environmental Management*.  *Bioresource Technology*.
-- *Applied Soil Ecology*.  *Ecological Indicators*.  *Field Crops Research*.
+- *Journal of Environmental Management*. *Bioresource Technology*.
+- *Applied Soil Ecology*. *Field Crops Research*. *Ecological Indicators*. 
 - *Agricultural Water Management*.  
