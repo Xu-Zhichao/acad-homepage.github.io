@@ -62,4 +62,4 @@ redirect_from:
 # Peer Reviewer
 - *Journal of Environmental Management*. *Bioresource Technology*.
 - *Applied Soil Ecology*. *Field Crops Research*. *Ecological Indicators*. 
-- *Agricultural Water Management*.  
+- *Chemosphere*. *Agricultural Water Management*.  
