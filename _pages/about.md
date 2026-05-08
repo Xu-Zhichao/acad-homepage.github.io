@@ -51,13 +51,13 @@ redirect_from:
 
 # Conferences
 - EGU General Assembly 2026 (EGU26), Vienna, Austria, 3–8 May 2026, Oral Presentation.
-- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025.
-- AI in national research ecosystems progress challenges and lessons learned, ISC, 2025.
+- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025, Participant.
+- AI in national research ecosystems progress challenges and lessons learned, ISC, 2025, Participant.
 - International Symposium on Sustainable Development, Beijing, 2024, Staff.
-- The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral/Poster Presentation.
+- The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral and Poster Presentation.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, Oral Presentation.
-- The 1st Land Surface System Science Liberal Arts Youth Forum, Beijing, 2019.
-- The 3rd Digital Belt and Road Conference, Tengchong, Yunnan, 2018.
+- The 1st Land Surface System Science Liberal Arts Youth Forum, Beijing, 2019, Participant.
+- The 3rd Digital Belt and Road Conference, Tengchong, Yunnan, 2018, Participant.
 - Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, 2017, Oral Presentation.
 
 # Peer Reviewer
