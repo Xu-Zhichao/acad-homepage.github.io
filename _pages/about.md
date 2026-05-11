@@ -20,7 +20,7 @@ redirect_from:
 	
 # About Me
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
-- 徐志超，博士，现为中国科学院大学特别研究助理/博士后。主要从事生物炭土壤改良、污泥资源化与磷回收、土壤性质空间变异、机器学习辅助农业环境预测等研究。近年来围绕生物炭对作物产量、土壤有机碳和土壤质量的影响开展全球尺度整合分析，并进一步拓展至污泥基生物炭环境风险与资源化利用研究。
+- **徐志超**，博士，现为中国科学院大学特别研究助理/博士后。主要从事生物炭土壤改良、污泥资源化与磷回收、土壤性质空间变异、机器学习辅助农业环境预测等研究。近年来围绕生物炭对作物产量、土壤有机碳和土壤质量的影响开展全球尺度整合分析，并进一步拓展至污泥基生物炭环境风险与资源化利用研究。
 
 # Affiliations
 - **2025.02 - Present**:  **Special Research Associate (PostDoc)**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
@@ -51,18 +51,18 @@ redirect_from:
 - 许国仁，张宿义，**徐志超**，邓波，王为浩. 一种酿酒废弃物绿色低碳资源化与能源化耦合方法. ZL202411456606.6, 授权.
 
 # Conferences
-- EGU General Assembly 2026 (EGU26), Vienna, Austria, 3–8 May 2026, Oral Presentation.
-- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, 2025, Participant.
-- AI in national research ecosystems progress challenges and lessons learned, ISC, 2025, Participant.
-- International Symposium on Sustainable Development, Beijing, 2024, Staff.
-- The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, Oral and Poster Presentation.
-- The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, Oral Presentation.
-- The 1st Land Surface System Science Liberal Arts Youth Forum, Beijing, 2019, Participant.
-- The 3rd Digital Belt and Road Conference, Tengchong, Yunnan, 2018, Participant.
-- Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, 2017, Oral Presentation.
+- EGU General Assembly 2026 (EGU26), Vienna, Austria, **2026**, Oral Presentation.
+- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, **2025**, Participant.
+- AI in national research ecosystems progress challenges and lessons learned, ISC, **2025**, Participant.
+- International Symposium on Sustainable Development, Beijing, **2024**, Staff.
+- The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, **2024**, Oral and Poster Presentation.
+- The 18th IWA Conference on Sustainable Sludge Management, Beijing, **2024**, Oral Presentation.
+- The 1st Land Surface System Science Liberal Arts Youth Forum, Beijing, **2019**, Participant.
+- The 3rd Digital Belt and Road Conference, Tengchong, Yunnan, **2018**, Participant.
+- Joint seminar of professional committee on soil genetic classification and soil geography, and professional committee of soil remote sensing and information, Shanghai, **2017**, Oral Presentation.
 
 # Peer Reviewer
-- Soil and agriculture: *Applied Soil Ecology*. *Soil Biology and Biochemistry*. *Agricultural Water Management*. *Field Crops Research*. 
-- Environmental science and engineering: *Bioresource Technology*. *Journal of Environmental Management*. *Chemosphere*. 
-- Ecological modelling and assessment: *Ecological Indicators*.
+- **Soil and agriculture:** *Applied Soil Ecology*. *Soil Biology and Biochemistry*. *Agricultural Water Management*. *Field Crops Research*. 
+- **Environmental science and engineering:** *Bioresource Technology*. *Journal of Environmental Management*. *Chemosphere*. 
+- **Ecological modelling and assessment:** *Ecological Indicators*.
   
