@@ -51,6 +51,7 @@ redirect_from:
 - 许国仁，张宿义，**徐志超**，邓波，王为浩. 一种酿酒废弃物绿色低碳资源化与能源化耦合方法. ZL202411456606.6, 授权.
 
 # Conferences
+- The 23rd World Congress of Soil Science, Nanjing, China, **2026**, Oral Presentation.
 - EGU General Assembly 2026 (EGU26), Vienna, Austria, **2026**, Oral Presentation.
 - 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, **2025**, Participant.
 - AI in national research ecosystems progress challenges and lessons learned, ISC, **2025**, Participant.
