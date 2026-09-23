@@ -19,18 +19,18 @@ redirect_from:
 
 	
 # About Me
-- **Zhichao Xu**, Special Research Associate (Postdoc), College of Resources and Environment, University of Chinese Academy of Sciences (UCAS), Beijing. ORCID: [0000-0002-4513-2504](https://orcid.org/0000-0002-4513-2504)
+- **Zhichao Xu**, Special Research Associate (Postdoc), College of Resources and Environment, University of Chinese Academy of Sciences (UCAS).
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
 - **徐志超**，博士，现为中国科学院大学特别研究助理（博士后）。主要从事生物炭土壤改良与固碳、污泥热解资源化与磷回收、土壤性质空间变异、机器学习土壤环境建模等研究。围绕生物炭的作物产量与土壤质量效应开展全球尺度整合分析，系统揭示污泥基生物炭在土壤中的环境行为与风险。
 
 # Employment
-- **2025.02 - Present**:  **Special Research Associate (PostDoc)**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
-- **2018.09 - 2019.07**:  **Research Assistant**; Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Supervisor: Prof. Dr. GENSUO JIA.
+- **2025.02 - Present**:  **Special Research Associate (PostDoc)**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. Guoren Xu. 
+- **2018.09 - 2019.07**:  **Research Assistant**; Institute of Atmospheric Physics, Chinese Academy of Sciences; Key Lab of Regional Climate-Environment for East Asia; Supervisor: Prof. Dr. Gensuo Jia.
 
 # Educations
-- **2019.09 - 2025.01**:  **Ph.D.**; University of Chinese Academy of Sciences; Environmental Engineering; Supervisor: Prof. Dr. GUOREN XU. 
-- **2015.07 - 2018.07**:  **M.A.**; Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; Soil Science; Supervisor: Prof. Dr. DONGSHENG YU.
-- **2010.09 - 2014.07**:  **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
+- **2019.09 - 2025.01**:  **Ph.D.**; University of Chinese Academy of Sciences; Environmental Engineering; Supervisor: Prof. Dr. Guoren Xu. 
+- **2015.07 - 2018.07**:  **M.A.**; Institute of Soil Science, Chinese Academy of Sciences; State Key Laboratory of Soil and Sustainable Agriculture; Soil Science; Supervisor: Prof. Dr. Dongsheng Yu.
+- **2010.09 - 2014.07**:  **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HeJun Zuo.
 
 # Publications 
 - **Selected First-author Papers**
