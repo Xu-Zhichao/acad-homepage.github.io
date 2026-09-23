@@ -54,7 +54,6 @@ redirect_from:
 - EGU General Assembly 2026 (EGU26), Vienna, Austria, 2026, **Oral Presentation**.
 - 13th Plenary Assembly of the Global Soil Partnership-Plenary assembly, FAO, 2025, Participant.
 - AI in national research ecosystems progress challenges and lessons learned, ISC, 2025, Participant.
-- The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, 2024, **Oral Presentation**.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, 2024, **Oral Presentation**.
 
 # Academic Services (Peer Reviewer)
@@ -63,4 +62,4 @@ redirect_from:
 - **Ecological modelling and assessment:** *Ecological Indicators*. *Carbon Research*. *Carbon Balance and Management*.
 
 # Contact
-- Email: xuzhichao@ucas.ac.cn
+- Email:[xuzhichao@ucas.ac.cn](xuzhichao@ucas.ac.cn).
