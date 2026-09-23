@@ -62,4 +62,4 @@ redirect_from:
 - **Ecological modelling and assessment:** *Ecological Indicators*. *Carbon Research*. *Carbon Balance and Management*.
 
 # Contact
-- Email:[xuzhichao@ucas.ac.cn](xuzhichao@ucas.ac.cn).
+- Email: [xuzhichao@ucas.ac.cn](xuzhichao@ucas.ac.cn).
