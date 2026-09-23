@@ -31,15 +31,15 @@ redirect_from:
 - **2010.09 - 2014.07**:  **B.A.**; Inner Mongolia Agricultural University; Soil and Water Conservation and Desertification Control; Supervisor: Prof. Dr. HEJUN ZUO.
 
 # Publications 
-- **Peer-reviewed Journal Articles(# First author)**
+- **Selected First-author Papers**
 - **Xu，Z.**, Yu R R, Zhou R, Xu G R, 2026: Short-term transport of soluble ions from sludge-based biochar in soil under environmental stress: effects of placement mode. ***Journal of Environmental Management***. [https://doi.org/10.1016/j.jenvman.2026.130502](https://doi.org/10.1016/j.jenvman.2026.130502).
 - **Xu，Z.**, Li M W, Zhou R, Xu G R, 2025: Machine Learning Predicted Crop Yield and Soil Organic Carbon Variation After Biochar Application. ***Soil Use and Management***. [https://doi.org/10.1111/sum.70092](https://doi.org/10.1111/sum.70092).  
-- **XU, Z.**, Zhou R, Xu G R, 2025: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. ***Soil Ecology Letters***. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).  
-- **Other Co-authored Papers**
+- **XU, Z.**, Zhou R, Xu G R, 2025: Global Analysis on Potential Effects of Biochar on Crop Yields and Soil Quality. ***Soil Ecology Letters***. [https://doi.org/10.1007/s42832-024-0267-x](https://doi.org/10.1007/s42832-024-0267-x).
+- **徐志超**，于东升，等. 2018: 长三角典型区占补耕地土壤肥力质量的时段特征. ***应用生态学报***，29(2) : 617–625.
+- **Selected Co-authored Papers**
 - Lu, X., Yu, D., Chen, Y. **Xu, Z.**, et al., 2020: Yield and nitrogen use efficiency of winter wheat with different soil fertility. ***Nutrient Cycling in Agroecosystems***, 116, 165–177. [https://doi.org/10.1007/s10705-019-10033-0](https://doi.org/10.1007/s10705-019-10033-0). 
 - Pan, Y., Lu, X., Yu, D., Huang J., Sun X., **Xu, Z.**, et al., 2019: Quantitative relationships between soil landscape index and classification grain. ***Journal of Soils and Sediments***, 19, 903–916. [https://doi.org/10.1007/s11368-018-2093-1](https://doi.org/10.1007/s11368-018-2093-1). 
 - Wang, X., Yu, D., **Xu, Z.**, et al., 2017: Regional patterns and controls of soil organic carbon pools of croplands in China. ***Plant and Soil***, 421, 525–539. [https://doi.org/10.1007/s11104-017-3462-z](https://doi.org/10.1007/s11104-017-3462-z). 
-- **徐志超**，于东升，等. 2018: 长三角典型区占补耕地土壤肥力质量的时段特征. ***应用生态学报***，29(2) : 617–625.
 - 陆晓松，于东升，**徐志超**，等. 2019: 土壤肥力质量与施氮量对小麦氮肥利用效率的综合定量关系研究. ***土壤学报***, 56(2): 487–494.
 
 # Patents
@@ -50,14 +50,16 @@ redirect_from:
 # Conferences
 - The 23rd World Congress of Soil Science, Nanjing, China, **2026**, Oral Presentation.
 - EGU General Assembly 2026 (EGU26), Vienna, Austria, **2026**, Oral Presentation.
-- 13th Plenary Assembly of the Global Soil Partnership - Plenary assembly, FAO, **2025**, Participant.
+- 13th Plenary Assembly of the Global Soil Partnership-Plenary assembly, FAO, **2025**, Participant.
 - AI in national research ecosystems progress challenges and lessons learned, ISC, **2025**, Participant.
 - International Symposium on Sustainable Development, Beijing, **2024**, Staff.
 - The 2nd International Conference on Biochar Research and Application & The 7th Asia Pacific Biochar Conference, Shenyang, **2024**, Oral and Poster Presentation.
 - The 18th IWA Conference on Sustainable Sludge Management, Beijing, **2024**, Oral Presentation.
 
-# Academic Services(Peer Reviewer)
+# Academic Services (Peer Reviewer)
 - **Soil and agriculture:** *Biochar*. *Soil Biology and Biochemistry*. *Applied Soil Ecology*. *Field Crops Research*. *Agricultural Water Management*. *Journal of Soils and Sediments*.
 - **Environmental science and engineering:** *Bioresource Technology*. *Journal of Environmental Management*. *Chemosphere*. 
-- **Ecological modelling and assessment:** *Ecological Indicators*.*Carbon Research*.*Carbon Balance and Management*.
-  
+- **Ecological modelling and assessment:** *Ecological Indicators*. *Carbon Research*. *Carbon Balance and Management*.
+
+# Contact
+- Email: xuzhichao@ucas.ac.cn
