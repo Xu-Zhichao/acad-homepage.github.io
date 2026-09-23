@@ -19,9 +19,9 @@ redirect_from:
 
 	
 # About Me
-- **Zhichao Xu**, Postdoc (Special Research Associate), College of Resources and Environment, University of Chinese Academy of Sciences (UCAS), Beijing. ORCID: [0000-0002-4513-2504](https://orcid.org/0000-0002-4513-2504)
+- **Zhichao Xu**, Special Research Associate (Postdoc), College of Resources and Environment, University of Chinese Academy of Sciences (UCAS), Beijing. ORCID: [0000-0002-4513-2504](https://orcid.org/0000-0002-4513-2504)
 - My research interest includes: **(1) Biochar for soil improvement and Climate change mitigation, (2) Soil-biochar-plant machine learning prediction system, (3) Trade off between agricultural sustainability and soil health, (4) Sludge pyrolysis resource recovery.**
-- **徐志超**，博士，现为中国科学院大学特别研究助理/博士后。主要从事生物炭土壤改良、污泥资源化与磷回收、土壤性质空间变异、机器学习辅助农业环境预测等研究。近年来围绕生物炭对作物产量、土壤有机碳和土壤质量的影响开展全球尺度整合分析，并进一步拓展至污泥基生物炭环境风险与资源化利用研究。
+- **徐志超**，博士，现为中国科学院大学特别研究助理（博士后）。主要从事生物炭土壤改良、污泥资源化与磷回收、土壤空间变异、机器学习环境建模；开展生物炭效应全球Meta分析与污泥基生物炭环境行为研究。
 
 # Educations & Employment
 - **2025.02 - Present**:  **Special Research Associate (PostDoc)**; University of Chinese Academy of Sciences; Supervisor: Prof. Dr. GUOREN XU. 
